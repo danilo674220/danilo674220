@@ -18,6 +18,9 @@
 
 ## 🌟 ¿Listo para colaborar? ¡Conéctate conmigo! 🚀
 
-![Persona programando](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
-![Programador profesional](https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif)
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="45%">
+  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="45%">
+</p>
+
 ## GRACIAS¡
