@@ -23,4 +23,8 @@
   <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="45%">
 </p>
 
+![Lenguaje Principal](https://img.shields.io/github/languages/top/usuario/repositorio)
+![Build Status](https://github.com/usuario/repositorio/workflows/CI/badge.svg)
+
+
 ## GRACIAS¡
