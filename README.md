@@ -16,4 +16,7 @@
 ![React](https://img.shields.io/badge/React-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)
 
+## 🌟 ¿Listo para colaborar? ¡Conéctate conmigo! 🚀
+
+![Programador trabajando](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 ## GRASIAS¡
