@@ -16,6 +16,8 @@
 ![React](https://img.shields.io/badge/React-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)
 
+![GitHub Repo stars](https://img.shields.io/github/stars/usuario/repositorio?style=social)
+
 ## 🌟 ¿Listo para colaborar? ¡Conéctate conmigo! 🚀
 
 <p align="center">
