@@ -34,5 +34,11 @@
 </p>
 
 ---
+## 🎯 ¡Vamos a Colaborar!
+🌱 Actualmente aprendiendo nuevas tecnologías y mejorando mis habilidades.  
+👨‍💻 Busco contribuir en proyectos innovadores.  
+📩 ¡Hablemos y creemos algo increíble juntos!  
+
+---
 
 ## GRACIAS¡_____________________________
